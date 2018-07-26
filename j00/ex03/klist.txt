@@ -1,0 +1,5 @@
+Credentials cache: API:24CC4A8F-319A-456F-BB52-0162F53F84D1
+        Principal: apaulaus@42.FR
+
+  Issued                Expires               Principal
+Jul  2 14:35:45 2018  Jul  9 14:35:35 2018  krbtgt/42.FR@42.FR
